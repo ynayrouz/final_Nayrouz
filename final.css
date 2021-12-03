@@ -1,0 +1,20 @@
+/*This is the CSS page for our final project template.*/
+.figure-caption {
+	font-weight: bold;
+	font-style: italic;
+}
+#article {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#header_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: 50%;
+  width: 50%;
+}
+.border_img{
+	border: solid gray 5px;
+}
