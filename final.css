@@ -4,17 +4,55 @@
 	font-style: italic;
 }
 #article {
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: 'Baloo Bhaijaan 2', cursive;
 }
 #header_img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
+  padding-bottom: 10px;
   height: 50%;
   width: 50%;
 }
-.border_img{
-	border: solid gray 5px;
+.jumbotron-fluid{
+	margin-right: -1%;
+	margin-left: -1%;
+}
+h1{
+	color: #3E6549;
+}
+p {
+	font-size: 18px
+}
+h3 {
+	color: #3E6549;
+	font-size: 35px;
+} 
+
+.linkcolor a:link{
+	color: #00A5CF
+}
+.linkcolor a:visited{
+	text-decoration: none;
+	color: #00627A
+}
+.linkcolor a:active{
+text-decoration: none;
+	color: #F08A4B
+}
+.linkcolor a:hover{
+	text-decoration: none;
+	color: #00627A
+}
+.accordion{
+	margin-bottom: 10%;
+}
+.box{
+	border: solid green 3px;
+	height: auto;
+	margin-right: 5px;
+	margin-bottom: 10%;
+	text-align: center;
+}
+button {
+	font-weight: bold;
 }
